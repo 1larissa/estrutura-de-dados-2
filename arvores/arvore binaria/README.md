@@ -35,6 +35,34 @@ Exercício 2 -  Considerando a árvore do exercício 1, escreva funções para o
     );
 ```
 <br>
+<br>
+
 Exercício 3 - Escreva uma função que retorna um valor booleano (um ou zero) que indica a ocorrência ou não de um dado caractere na árvore. Considere o seguinte protótipo para a sua função:
 
+```C
+int pertence_arv (Arvore *a, char c);
+```
 
+onde char c é o caractere que deve ser procurado na árvore a.
+<br>
+<br>
+Exercício 4 - Escreva uma função que conte o número de nós de uma árvore binária. Utilize o seguinte protótipo para a sua função:
+
+```C
+int conta_nos (Arvore *a);
+```
+<br>
+<br>
+Exercício 5 - Escreva uma função que calcula a altura de uma árvore binária. Utilize o seguinte protótipo para a sua função:
+
+```C
+int calcula_altura_arvore (Arvore *a);
+```
+
+<br>
+<br>
+Exercício 6 - Escreva uma função que conta o número de nós folhas em uma árvore binária. Utilize o seguinte prot´otipo para a sua função:
+
+```C
+int conta_nos_folha (Arvore *a);
+```
