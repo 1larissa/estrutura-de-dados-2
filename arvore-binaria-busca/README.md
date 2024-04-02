@@ -47,4 +47,5 @@ int maior_ramo (Arvore *a);
 ```
 
 <br>
+
 ![image](https://github.com/1larissa/estrutura-de-dados-2/assets/129631047/260b60d2-4adb-42ea-8e03-2f647872823a)
